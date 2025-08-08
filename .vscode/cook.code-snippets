@@ -1,0 +1,15 @@
+{
+    "C++ Boilerplate": {
+        "prefix": "cook",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "",
+            "int main() {",
+            "    ",
+            "    return 0;",
+            "}"
+        ],
+        "description": "Basic C++ boilerplate with bits/stdc++.h"
+    }
+}
